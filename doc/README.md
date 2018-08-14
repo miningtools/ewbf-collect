@@ -95,7 +95,7 @@ ewbf-collect
 
 > collector@host:~$ sudo service grafana-server restart
 
-### Enable ewbf's cuda miner API acces on rigs
+### Enable ewbf's cuda miner API access on rigs
  
 sample config file :
 ```
